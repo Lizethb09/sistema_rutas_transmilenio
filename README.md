@@ -134,6 +134,28 @@ sistema_rutas_transmilenio/
 ├── README.md
 └── pruebas/
 ```
+## Pruebas realizadas
+
+El sistema fue probado mediante diferentes casos de ejecución para verificar su funcionamiento.
+
+### Prueba 1: Ruta válida
+Se verificó la búsqueda de una ruta entre Portal Norte y Universidades.
+
+### Prueba 2: Ruta inversa
+Se verificó la búsqueda de una ruta entre Universidades y Portal Norte.
+
+### Prueba 3: Ruta corta
+Se verificó una ruta directa entre Calle 26 y Museo Nacional.
+
+### Prueba 4: Misma estación
+Se verificó el comportamiento cuando la estación de origen y destino son iguales.
+
+### Prueba 5: Entrada inválida
+Se verificó la validación de una selección de estación fuera del rango disponible.
+
+Las evidencias de estas pruebas se encuentran en:
+
+`documentos/Pruebas_Sistema_Rutas_TransMilenio.pdf`
 
 ## Autora
 
