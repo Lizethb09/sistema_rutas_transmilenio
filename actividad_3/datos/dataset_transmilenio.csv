@@ -1,0 +1,37 @@
+origen,destino,numero_estaciones,costo_interno,transbordos,categoria_trayecto
+Portal Norte,Calle 100,2,2,0,corto
+Portal Norte,NQS Calle 75,3,4,0,corto
+Portal Norte,Universidad Nacional,5,7,1,medio
+Portal Norte,Calle 26,6,9,1,medio
+Portal Norte,Universidades,7,12,2,largo
+Calle 100,NQS Calle 75,2,2,0,corto
+Calle 100,Calle 26,5,7,1,medio
+Calle 100,Universidades,6,10,1,largo
+NQS Calle 75,Calle 63,2,1,0,corto
+NQS Calle 75,Universidad Nacional,2,3,0,corto
+NQS Calle 75,Museo Nacional,4,6,1,medio
+NQS Calle 75,Universidades,5,8,1,medio
+Calle 63,Universidad Nacional,2,2,0,corto
+Calle 63,Calle 26,4,4,1,medio
+Calle 63,Universidades,6,8,1,largo
+Universidad Nacional,Calle 26,2,2,0,corto
+Universidad Nacional,Museo Nacional,3,3,0,corto
+Universidad Nacional,Universidades,4,5,1,medio
+Calle 26,Museo Nacional,2,1,0,corto
+Calle 26,San Diego,2,2,0,corto
+Calle 26,Universidades,3,3,1,medio
+Museo Nacional,San Diego,2,1,0,corto
+Museo Nacional,Universidades,2,2,0,corto
+San Diego,Universidades,2,1,0,corto
+Portal Norte,San Diego,8,13,2,largo
+Calle 100,Museo Nacional,6,8,1,medio
+NQS Calle 75,San Diego,5,7,1,medio
+Calle 63,Museo Nacional,4,5,1,medio
+Universidad Nacional,San Diego,4,5,1,medio
+Calle 26,Portal Norte,6,9,1,medio
+Universidades,Portal Norte,7,12,2,largo
+San Diego,Portal Norte,8,13,2,largo
+Museo Nacional,Portal Norte,7,11,2,largo
+Calle 63,Portal Norte,6,9,1,medio
+Universidad Nacional,Portal Norte,6,10,1,largo
+Universidades,Calle 100,6,10,1,largo
